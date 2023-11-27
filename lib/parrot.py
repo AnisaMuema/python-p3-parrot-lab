@@ -1,2 +1,2 @@
-def parrot():
-    pass
+def parrot(stri="squawk!"):
+    print("Hello!")
